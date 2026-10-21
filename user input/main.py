@@ -1,0 +1,5 @@
+# name = input("What your name : ")
+# print("Hello " + name)
+age = int(input("What your age : "))
+print("your age is " + str(age))
+print(type(age))
