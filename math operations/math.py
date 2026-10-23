@@ -26,6 +26,8 @@ import math
 # print(max(array))
 # print(min(array))
 
-num = 4.56
+num = 4.1
 print(math.ceil(num))
 print(math.floor(num))
+
+print(round(num))
