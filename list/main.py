@@ -46,7 +46,7 @@ print(lenght)
 
 # lenght
 # sort
-# appent
+# append
 # pop
 # reverse
 # remove
